@@ -1,6 +1,7 @@
 #include <stdio.h>   // inclusao de bibliotecas da linguagem
 
 int main() {
+    
 /*  1 entrada
     Ex: scanf()
 
