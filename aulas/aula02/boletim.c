@@ -15,6 +15,8 @@ printf("|===========================================|\n");
 printf("\n");
 
 */
+
+
 float nota_a1;
 float nota_a2;
 float nota_a3;
